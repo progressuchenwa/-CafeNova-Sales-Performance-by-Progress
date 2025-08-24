@@ -1,6 +1,6 @@
 # -CafeNova-Sales-Performance-by-Progress
 ## Project Overview
-When I first opened the CafeNova dataset, it looked overwhelming. There were blanks, duplicates, inconsistent formats, and scattered entries that made it difficult to understand what the data was really saying. My task was to transform this raw data into a clean, structured dataset and then build a dashboard that would help a restaurant manager quickly spot trends in sales performance.
+When I first opened the CafeNova dataset as a Junior Data Analyst, it looked overwhelming. There were blanks, duplicates, inconsistent formats, and scattered entries that made it difficult to understand what the data was really saying. In this role, I led the end-to-end cleaning and dashboard build, transforming the raw data into a clean, structured dataset and an interactive dashboard that helps a restaurant manager quickly spot trends in sales performance.
 
 ## Dataset
 The dataset used in this project can be found here:  
