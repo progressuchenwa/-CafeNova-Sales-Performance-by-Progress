@@ -61,3 +61,7 @@ It demonstrates how Excel skills can transform raw restaurant transactions into 
 
 ## 👩About Me
 I’m **Ukamaka Uchenwa (Progress)**, a data analyst who specializes in Excel dashboards, data cleaning, and storytelling with data. I enjoy taking messy, real-world datasets and turning them into insights that help businesses grow.
+
+👉 **Let’s Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ukamaka/)
